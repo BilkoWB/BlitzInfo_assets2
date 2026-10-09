@@ -1,0 +1,1 @@
+{"old":"12.4.0.5076","new":"12.4.0.5077","day":"2025-10-06","added":[],"removed":[],"changed":{"ussr:IS-7":{"chassis[IS-7].maxHealth":[3000.0,300.0]}},"models":[],"names":{"ussr:IS-7":{"key":"IS-7","nation":"ussr","tier":10,"names":{"ru":"ИС-7","en":"ИС-7","uk":"ИС-7"}}}}
