@@ -1,0 +1,1 @@
+{"old":"4.2.0.267","new":"4.2.0.276","day":"2017-09-20","added":[],"removed":[],"changed":{"usa:T49_Rocket":{"economy.buy.value":[4900.0,1.0],"price.gold":[4900.0,1.0]}},"models":[],"names":{"usa:T49_Rocket":{"key":"T49_Rocket","nation":"usa","tier":7,"names":{"ru":"T49 ПТУР","en":"T49 ATM","uk":"T49 ATM"}}}}
